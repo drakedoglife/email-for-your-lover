@@ -1,0 +1,19 @@
+ul {
+  position: absolute;
+  left: -32px;
+  top: 15px;
+}
+
+li {
+  list-style-type: none;
+  display: block;
+  border: 1px solid #BDBDBD;
+  height: 30px;
+  line-height: 2;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+li:hover {
+  background-color: #FFFACD;
+}
